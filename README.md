@@ -1,6 +1,6 @@
 # Ligne de commandes linux et autres tricks
 
-## Github
+## Github
 
 ### Configuration authentification github
 
