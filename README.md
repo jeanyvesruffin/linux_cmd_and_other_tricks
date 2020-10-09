@@ -25,3 +25,9 @@ password blabla
 ```cmd
 npm ls -g
 ```
+
+## VsCode
+
+**Raccourcie**
+
+Ctr+Shift+i ==> Indentation code
