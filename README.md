@@ -12,7 +12,7 @@ login toto
 password blabla
 ```
 
-## Commands lines
+## Commands lines npm
 
 **connaitre les package installe globalement**
 
