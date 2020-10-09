@@ -1,4 +1,4 @@
-# linux_command_line
+# Ligne de commandes linux et autres tricks
 
 ## Configuration authentification github
 
