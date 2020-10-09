@@ -11,3 +11,11 @@ machine github.com
 login toto
 password blabla
 ```
+
+## Commands lines
+
+**connaitre les package installe globalement**
+
+```cmd
+npm ls -g
+```
