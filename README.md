@@ -1,6 +1,8 @@
 # Ligne de commandes linux et autres tricks
 
-## Configuration authentification github
+## Github
+
+### Configuration authentification github
 
 Marre de tapper son logging/ password dans VsCode.
 
