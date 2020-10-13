@@ -31,3 +31,13 @@ npm ls -g
 **Raccourcie**
 
 Ctr+Shift+i ==> Indentation code
+
+## netstat
+
+Ecouter les ports 
+
+```cmd
+netstat -ta
+```
+
+
