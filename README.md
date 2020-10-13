@@ -42,7 +42,7 @@ Ecouter les ports
 netstat -ta
 ```
 
-## Fuser
+## Fuser
 
 Permet de fermer le port 548
 
