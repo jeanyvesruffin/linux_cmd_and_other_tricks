@@ -26,6 +26,13 @@ password blabla
 npm ls -g
 ```
 
+## Eclipse
+
+**Raccourcie**
+
+Ctr+Shift+f ==> Indentation code
+
+
 ## VsCode
 
 **Raccourcie**
