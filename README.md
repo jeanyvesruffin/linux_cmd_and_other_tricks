@@ -2,7 +2,11 @@
 
 ## Lignes de commande linux
 
+* Supprimer un dossier et son contenu
 
+```cmd
+rm -rf dirname
+```
 
 ## Github
 
