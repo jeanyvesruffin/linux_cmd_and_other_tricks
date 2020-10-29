@@ -8,6 +8,24 @@
 rm -rf dirname
 ```
 
+## Lignes de commande Anaconda
+
+* Info sur les environnements
+
+```cmd
+conda info -e
+```
+
+* Supprimer un environnement
+
+```cmd
+conda remove --name [ENVIRONNEMENT] --all 
+
+```
+
+
+
+
 ## Github
 
 ### Configuration authentification github
