@@ -63,7 +63,7 @@ Ctr+Shift+f ==> Indentation code
 
 **Raccourcie**
 
-Ctr+Shift+i ==> Indentation code
+Shift+Alt+F ==> Indentation code
 
 ## netstat
 
