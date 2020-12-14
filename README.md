@@ -40,6 +40,10 @@ login toto
 password blabla
 ```
 
+### Custumiser le fichier config
+
+[alias_git](https://www.atlassian.com/fr/git/tutorials/git-alias)
+
 ## Commands lines npm
 
 **connaitre les package installe globalement**
