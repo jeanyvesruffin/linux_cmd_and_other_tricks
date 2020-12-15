@@ -69,6 +69,8 @@ Ctr+Shift+f ==> Indentation code
 
 Shift+Alt+F ==> Indentation code
 
+! + Enter ==> generation entete HTML
+
 ## netstat
 
 [netstat](http://www.faqs.org/docs/linux_network/)
