@@ -71,6 +71,8 @@ Shift+Alt+F ==> Indentation code
 
 ! + Enter ==> generation entete HTML
 
+Ctlr + k  puis s ==> Sauvegarde tous les fichiers
+
 ## netstat
 
 [netstat](http://www.faqs.org/docs/linux_network/)
