@@ -8,6 +8,17 @@
 rm -rf dirname
 ```
 
+* tous les droits sur un fichier
+
+```cmd
+chmod 777 [fichier]
+```
+
+Interroger une variable d'environnement
+
+echo $[Nom variable]
+
+
 ## Lignes de commande Anaconda
 
 * Info sur les environnements
